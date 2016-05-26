@@ -2,7 +2,7 @@
 
 A a responsive and informative HTML page letting users know if it is Wednesday yet. 
 
-Possible answers are "_Yes!_" on Wednesdays, "_Almost._" on Tuesdays and "_Nope._" for the other days. 
+Possible answers are "_Yes!_" on Wednesdays (_duh!_), "_Almost._" on Tuesdays and "_Nope._" for the other days. 
 
 The page is based on [The Big Picture](http://startbootstrap.com/template-overviews/the-big-picture/).
 
